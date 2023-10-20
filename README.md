@@ -52,6 +52,8 @@ While studying, I saw a course from JavaRush and decided to understand what java
 ### 💻 Codewars:
 
 ![CodeWars](https://www.codewars.com/users/flykby/badges/large)
+
+### 💻 LeetCode:
 ![LeetCode](https://leetcard.jacoblin.cool/flykby?theme=dark&font=Gowun%20Dodum&ext=heatmap)
 
 ---
