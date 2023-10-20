@@ -22,7 +22,7 @@ While studying, I saw a course from JavaRush and decided to understand what java
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="https://t.me/flykby" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white" width="40" height="40" alt="Telegram"/>
+      <img src="[https://cdn-icons-png.flaticon.com/512/145/145813.png](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white](https://cdn1.telegram-cdn.org/file/N5uBmtYawRO1dFS9wrDn7JemkH8Sx2MpgW4nw-mr47sXzgHSur2KBfeGzeInMYWlngWOi_TmQ8VDh52FO-KoPi5a6-RgZpqih7Z0aIYxkj2VV7FVQHqmq5mL5-s0Ll7Dw4qXXC-Vw9iD4rxxXKHNsULddL-zbZoy2CFFewtqdf0ivXfJO29XmHu7XM9DY7GKXH0WQFA__QkJ8h1USa_Muve7Wao_GDuIEEU1OHacxACRy7_UMUZQTy8bZZ-SnSZ7srtijjG_yEHr8wXb3fYCA7xQsdO7ZkydT9PaUZF50k-W45jZUZocFm_hwxrWZdwiej1qD3laetgkxTRJU6rRPg.jpg)" width="40" height="40" alt="Telegram"/>
     </a>
   </div>
 
