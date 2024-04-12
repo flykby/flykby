@@ -1,17 +1,20 @@
 Hi! My name is Daniel
 ====================================================================================================================================
 
-Backend Java developer and Frontend React developer
+Backend Golang developer and Frontend React developer
 ---------------------------------------------------
 
-I am a beginner Java Backend developer. My path to IT began with the appearance of a computer science tutor in 8th grade, who showed me what programming in Pascal ABC Net and Python and web page layout is. After that, I decided not to stop at school tasks, I started writing bots for VK and Telegram.
-In the 10th grade, one of the customers suggested trying to implement a web application for him. Since the deadlines of the project were not important to him, I agreed to study a new direction in programming for myself. I really liked creating web applications, especially backend. After a certain time, I started learning TypeScript.
-While studying, I saw a course from JavaRush and decided to understand what java is in general... Thanks to the fascinating course and the pleasant features of the language, I decided that I would write in it. I've been writing in this language for a year now, I've studied Java Core, Java Collections, Multithreading, Spring and Hibernate, and now I'm looking for a job <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = "30px">
+I am a developer on Golang.
+
+I'm using a stack:
+Go, Postgres, RabbitMQ, Redis
+
+Now I'm looking for a job <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = "30px">
 
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [daniil\_zohno@mail.ru](mailto:daniil_zohno@mail.ru) or (preferably) [Telegram](https://t.me/flykby) 
 * 🚀  I'm currently working on [Emergency notification system](http://(s)projectskedrova.ru/)
-* 🧠  I'm learning Kafka, Redis and Algorithms
+* 🧠  I'm learning Kafka and Algorithms
 
 ---
 
