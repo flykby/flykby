@@ -7,7 +7,7 @@ Backend Golang developer and Frontend React developer
 I am a developer on Golang.
 
 I'm using a stack:
-Go, Postgres, RabbitMQ, Redis
+Go, Postgres, RabbitMQ, Redis, MongoDB, S3
 
 Now I'm looking for a job <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = "30px">
 
